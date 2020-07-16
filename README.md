@@ -1,2 +1,3 @@
 # WhatsUpGit
-Intro 2
+Intro to git.
+With patience and focus, it's all coming together.
